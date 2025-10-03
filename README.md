@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Hello! I'm Juliano de Freitas, a software developer with six months of experience. I currently work at Hortti, where I create software that brings automation to the produce industry. My stack includes React and TypeScript (for type-safe user interfaces styled with Tailwind CSS), Docker (for consistent environments), and GitHub (for version control and CI/CD). I'm always open to connecting and contributing to interesting projects.
+Hello! I'm Juliano de Freitas, a software developer with six months of experience. I currently work at Hortti and Trindtech, where I create software that brings automation to the produce industry. My stack includes React and TypeScript (for type-safe user interfaces styled with Tailwind CSS), Docker (for consistent environments), and GitHub (for version control and CI/CD). I'm always open to connecting and contributing to interesting projects.
 
 * 🌍  I'm based in Gravataí
 * ✉️  You can contact me at [julianosilveirafreitass@gmail.com](mailto:julianosilveirafreitass@gmail.com)
