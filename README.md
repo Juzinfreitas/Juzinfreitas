@@ -8,7 +8,7 @@ Hello! I'm Juliano de Freitas, a software developer with six months of experienc
 
 * 🌍  I'm based in Gravataí
 * ✉️  You can contact me at [julianosilveirafreitass@gmail.com](mailto:julianosilveirafreitass@gmail.com)
-* 🚀  I'm currently working on [Hortti](http://hortti.com)
+* 🚀  I'm currently working on [Trindtech](trindtech.com.br)
 * 🧠  I'm currently learning Advanced TypeScript
 * 👥  I'm looking to collaborate on Contributing to the UX/Design System part of projects that use Tailwind CSS and TypeScript.
 * 💬  Ask me about My favorite commit is the one that breaks the least things. ☕
